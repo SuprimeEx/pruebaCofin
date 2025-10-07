@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "nombre": "Carlos Pérez",
+    "balance": 1500.75
+  },
+  {
+    "id": 2,
+    "nombre": "Ana Gómez",
+    "balance": -200.50
+  },
+  {
+    "id": 3,
+    "nombre": "Luis Rodríguez",
+    "balance": 3200.00
+  },
+  {
+    "id": 4,
+    "nombre": "María Fernanda",
+    "balance": -50.00
+  },
+  {
+    "id": 5,
+    "nombre": "Juan Morales",
+    "balance": 875.25
+  }
+]
